@@ -66,9 +66,9 @@ Welcome to my GitHub profile! I'm a passionate and curious **sophomore BSIT stud
 
 ## 🌍 Let’s Connect
 
-- **LinkedIn**: [Miguel's LinkedIn](#)  
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/miguel-harvey-velasco-07995b251)  
 - **Portfolio Website**: [Coming Soon!](#)  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [miguel.velasco.dev@gmail.com](mailto:miguel.velasco.dev@gmail.com)
 
 ### Fun Fact:
 When I’m not coding or troubleshooting, you’ll find me gaming or brainstorming new business ideas with friends. Let’s build something great together!
